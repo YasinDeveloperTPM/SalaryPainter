@@ -1,0 +1,7 @@
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\bin\Debug\m,n,mn.exe.config
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\bin\Debug\m,n,mn.exe
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\bin\Debug\m,n,mn.pdb
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\obj\Debug\m,n,mn.csproj.AssemblyReference.cache
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\obj\Debug\m,n,mn.csproj.CoreCompileInputs.cache
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\obj\Debug\m,n,mn.exe
+C:\Users\Sepanta\Desktop\mjmb\m,n,mn\m,n,mn\obj\Debug\m,n,mn.pdb
